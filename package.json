@@ -1,0 +1,25 @@
+{
+	"name": "generator-webapp",
+	"version": "1.0.0",
+	"description": "A simple project generator with HTML, SCSS, JavaScript, and Gulp build configuration",
+	"files": [
+		"generators"
+	],
+	"keywords": [
+		"yeoman-generator",
+		"generator",
+		"webapp"
+	],
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"lodash": "^4.17.20",
+		"mkdirp": "^1.0.4",
+		"node-emoji": "^1.10.0",
+		"simple-git": "^2.31.0",
+		"yeoman-generator": "^4.12.0",
+		"yosay": "^2.0.2",
+		"shelljs": "^0.8.4"
+	},
+	"author": "Devendra Pratap Singh <dps.manit@gmail.com> (https://devendrapratap.me/)",
+	"license": "ISC"
+}
