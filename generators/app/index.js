@@ -153,6 +153,7 @@ module.exports = class WebAppGenerator extends (
 		this.copy("js", "app/js");
 		this.copy("images", "images");
 
+		this.copy("config.ini", "config.ini");
 		this.copy("gulpfile.js", "gulpfile.js");
 	}
 
