@@ -168,6 +168,8 @@ module.exports = class WebAppGenerator extends (
 				"gulp-postcss",
 				"gulp-sass",
 				"gulp-terser",
+				"ini",
+				"lodash.get"
 			],
 			{ "save-dev": true },
 		);
